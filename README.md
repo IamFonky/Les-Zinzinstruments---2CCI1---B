@@ -12,6 +12,8 @@ Profs :
 Etudiants : 
  - Elsa Sordet  
  - Pierre-Benjamin Monaco
+  - Anatoli Nagy
+  - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission
 

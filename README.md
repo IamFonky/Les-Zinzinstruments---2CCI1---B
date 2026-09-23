@@ -10,6 +10,7 @@ Profs :
   - Pierre-Benjamin Monaco
 
 Etudiants : 
+  - Lucile
   - Giulia Vittoria
   - Anatoli Nagy
   - Pierre-Benjamin Monaco

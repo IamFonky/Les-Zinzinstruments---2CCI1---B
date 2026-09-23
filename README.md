@@ -11,6 +11,7 @@ Profs :
 
 Etudiants :
   - Fazli Nuredini
+  - Anatoli Nagy
   - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission

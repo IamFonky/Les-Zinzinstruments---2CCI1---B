@@ -10,7 +10,8 @@ Profs :
   - Pierre-Benjamin Monaco
 
 Etudiants : 
-  -Ophelia Trog
+  - Ophelia Trog
+  - Anatoli Nagy
   - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission

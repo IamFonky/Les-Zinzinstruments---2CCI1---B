@@ -10,6 +10,7 @@ Profs :
   - Pierre-Benjamin Monaco
 
 Etudiants : 
+  - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission
 

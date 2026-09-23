@@ -11,6 +11,8 @@ Profs :
 
 Etudiants : 
   - Anatoli Nagy
+  - Pierre-Benjamin Monaco
+
 ## 🧪 Ta mission
 
 Le zoo est presque vide : il ne reste que le **piano** 🎹 et la **voix** 🗣️ (les cases grises ❓ sont les instruments inconnus qui attendent d'être créés... par toi !).

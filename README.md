@@ -10,6 +10,7 @@ Profs :
   - Pierre-Benjamin Monaco
 
 Etudiants : 
+  - Anatoli Nagy
   - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission

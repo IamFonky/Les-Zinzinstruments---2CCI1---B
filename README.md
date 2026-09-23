@@ -11,6 +11,8 @@ Profs :
 
 Etudiants :
   - Fazli Nuredini
+  - Lucile
+  - Giulia Vittoria
   - Anatoli Nagy
   - Pierre-Benjamin Monaco
 

@@ -14,6 +14,11 @@ Etudiants :
  - Pierre-Benjamin Monaco
  - Anatoli Nagy
  - Pierre-Benjamin Monaco
+ - Reshani Ylli
+ - Lucile
+ - Giulia Vittoria
+ - Anatoli Nagy
+ - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission
 

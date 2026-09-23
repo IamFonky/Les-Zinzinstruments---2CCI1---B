@@ -11,6 +11,7 @@ Profs :
 
 Etudiants : 
   - Reshani Ylli
+  - Giulia Vittoria
   - Anatoli Nagy
   - Pierre-Benjamin Monaco
 

@@ -11,6 +11,7 @@ Profs :
 
 Etudiants : 
   - Giulia Vittoria
+  - Anatoli Nagy
   - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission

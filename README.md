@@ -11,6 +11,7 @@ Profs :
 
 Etudiants : 
   - Ophelia Trog
+  - Giulia Vittoria
   - Anatoli Nagy
   - Pierre-Benjamin Monaco
 

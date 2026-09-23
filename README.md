@@ -11,6 +11,8 @@ Profs :
 
 Etudiants : 
   - Ophelia Trog
+Etudiants :
+  - Fazli Nuredini
   - Reshani Ylli
   - Lucile
   - Giulia Vittoria

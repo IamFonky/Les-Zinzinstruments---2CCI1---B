@@ -7,9 +7,10 @@ Le tout premier projet Web en collaboration avec tous les élèves d'une classe 
 ## Participants
 
 Profs : 
-  - Pierre-Benjamin Monaco
+ - Pierre-Benjamin Monaco 
 
 Etudiants : 
+ - Elsa Sordet  
 
 ## 🧪 Ta mission
 

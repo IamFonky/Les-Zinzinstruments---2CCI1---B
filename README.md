@@ -10,7 +10,11 @@ Profs :
   - Pierre-Benjamin Monaco
 
 Etudiants : 
+<<<<<<< HEAD
   - Lucile
+=======
+  - Anatoli Nagy
+>>>>>>> origin/main
   - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission

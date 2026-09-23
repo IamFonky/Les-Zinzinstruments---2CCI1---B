@@ -11,6 +11,7 @@ Profs :
 
 Etudiants :
   - Fazli Nuredini
+  - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission
 

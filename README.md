@@ -11,6 +11,7 @@ Profs :
 
 Etudiants : 
   - Reshani Ylli
+  - Anatoli Nagy
   - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission

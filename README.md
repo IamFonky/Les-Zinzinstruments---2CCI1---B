@@ -10,15 +10,16 @@ Profs :
  - Pierre-Benjamin Monaco 
 
 Etudiants : 
- - Elsa Sordet  
- - Pierre-Benjamin Monaco
  - Anatoli Nagy
- - Pierre-Benjamin Monaco
- - Reshani Ylli
- - Lucile
+ - Santiago Nogeira Campos
+ - Fazli Nuredini
+ - Mikael Ramirez Mendez
+ - Ylli Reshani
+ - Elsa Sordet
+ - Karina Tanaka Lazar
+ - Lucile Terrazzoni
+ - Ophelia Trog
  - Giulia Vittoria
- - Anatoli Nagy
- - Pierre-Benjamin Monaco
 
 ## 🧪 Ta mission
 

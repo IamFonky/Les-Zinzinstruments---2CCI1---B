@@ -1,6 +1,6 @@
 import { playTone } from "../../js/audio.js";
 
-export const id = "piano";
+export const id = "banjo";
 
 export function play() {
   playTone(261.63, "triangle", 1.2, 0.4);

@@ -9,6 +9,8 @@ Le tout premier projet Web en collaboration avec tous les élèves d'une classe 
 Profs : 
  - Pierre-Benjamin Monaco 
 
+Etudiants :
+  - Mikael Ramirez
 Etudiants : 
  - Anatoli Nagy
  - Santiago Nogueira Campos

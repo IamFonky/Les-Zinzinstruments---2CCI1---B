@@ -11,7 +11,7 @@ Profs :
 
 Etudiants : 
  - Anatoli Nagy
- - Santiago Nogeira Campos
+ - Santiago Nogueira Campos
  - Fazli Nuredini
  - Mikael Ramirez Mendez
  - Ylli Reshani

@@ -7,10 +7,21 @@ Le tout premier projet Web en collaboration avec tous les élèves d'une classe 
 ## Participants
 
 Profs : 
-  - Pierre-Benjamin Monaco
+ - Pierre-Benjamin Monaco 
 
 Etudiants :
   - Mikael Ramirez
+Etudiants : 
+ - Anatoli Nagy
+ - Santiago Nogueira Campos
+ - Fazli Nuredini
+ - Mikael Ramirez Mendez
+ - Ylli Reshani
+ - Elsa Sordet
+ - Karina Tanaka Lazar
+ - Lucile Terrazzoni
+ - Ophelia Trog
+ - Giulia Vittoria
 
 ## 🧪 Ta mission
 

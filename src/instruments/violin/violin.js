@@ -1,10 +1,8 @@
 import { playTone } from "../../js/audio.js";
 
-export const id = "unknown";
+export const id = "violin";
 
 export function play() {
-  playTone(233.08, "sawtooth", 0.3, 0.25);
-  playTone(220, "sawtooth", 0.3, 0.25, 0.3);
-  playTone(207.65, "sawtooth", 0.3, 0.25, 0.6);
-  playTone(196, "sawtooth", 1, 0.3, 0.9, -30);
-}
+  playTone(440, "sawtooth", 0.9, 0.12, 0, 6);
+  playTone(493.88, "sawtooth", 0.9, 0.12, 0.45, 6);
+  playTone(523.25, "sawtooth", 1.1, 0.14, 0.9, 6);
